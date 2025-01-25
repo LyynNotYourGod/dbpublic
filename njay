@@ -1,0 +1,74 @@
+{
+  "keys": [
+    {
+      "key": "anjay",
+      "numbers": ["6282338614711"],
+      "pin": "000",
+      "username": "anjay",
+      "password": "anjay"
+    },
+    {
+      "key": "112233",
+      "numbers": ["6282339978548"],
+      "pin": "223344",
+      "username": "ikyy",
+      "password": "ikyyoffc"
+    },
+    {
+      "key": "xyrostvn",
+      "numbers": ["6285788055721", "265882390190"],
+      "pin": "060309",
+      "username": "XyroNesia",
+      "password": "@Xyr0host"
+    },
+    {
+      "key": "FallTpX",
+      "numbers": ["62877533994809", "6287753399480"],
+      "pin": "147852",
+      "username": "AzfalGntng",
+      "password": "Yodha412012"
+    },
+    {
+      "key": "qpy1",
+      "numbers": ["6287883051309", "6285212311072", "6289518248057"],
+      "pin": "159456",
+      "username": "gisna",
+      "password": "gisna123"
+    },
+    {
+    "key": "tempekbasah",
+      "numbers": ["6282178006414"],
+      "pin": "123456",
+      "username": "NabzxGanteng",
+      "password": "{Bokepjepang"
+    },
+    {
+    "key": "riel",
+      "numbers": ["6289502696634"],
+      "pin": "123",
+      "username": "Riel12",
+      "password": "Riel12"
+    },
+    {
+    "key": "lynn",
+      "numbers": ["6282195227538", "6281357435388"],
+      "pin": "1",
+      "username": "lynn",
+      "password": "what"
+    },
+     {
+      "key": "#Lukman18",
+      "numbers": ["6287883463697"],
+      "pin": "@Lukman18@",
+      "username": "Lukman",
+      "password": "##Lukman18"
+    },
+    {
+      "key": "rasyaa2",
+      "numbers": ["6285974127687"],
+      "pin": "150209",
+      "username": "rasyaa2",
+      "password": "rasyaa2"
+    }
+  ]
+}
